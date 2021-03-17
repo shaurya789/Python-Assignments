@@ -1,5 +1,4 @@
 <h1> Hangman Game with Hints </h1>
-<hr>
 
 I have added some functionality besides what was asked in the problem set:
 
